@@ -1,0 +1,20 @@
+{
+  "name": "react-router-redux-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.jsx",
+  "dependencies": {
+    "react": "^15.3.1",
+    "react-dom": "^15.3.1",
+    "react-redux": "^4.4.5",
+    "react-router": "^2.7.0",
+    "redux": "^3.5.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Tester c'est douter\" && exit 1",
+    "start": "echo \"Use webcli to run this application: npm i -g https://github.com/cybrown/webcli.git\""
+  },
+  "author": "Cy Brown",
+  "license": "ISC"
+}
